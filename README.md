@@ -1,7 +1,6 @@
 <div align="center">
 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#98e9d0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Matheus+Almeida;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#98e9d0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Matheus+Almeida;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
   
 </div><br>
 
@@ -24,7 +23,6 @@
   <img align="center" alt="ph-CSS" height="30" width="40" src="https://camo.githubusercontent.com/cdd289ae72f33665800bc6a63936d5afa0454214d520945780894151112a055f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667">
  
 </div>
-
   
   ![Snake animation](https://github.com/UT0P1C/UT0P1C/blob/output/github-contribution-grid-snake.svg)
   
