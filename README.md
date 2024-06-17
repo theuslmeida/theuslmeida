@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **JavaScript, Python, Java, SQL  .**
+  💼 Linguagens: **JavaScript, Python, Java, SQL  .**
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Meios de Contato: ⤵️
+  💼 Meios de Contato: ⤵️
 </p>
 
 <p align="left">
