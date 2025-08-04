@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- gosto bastante de programar e sou <strong>FullStack</strong>.<br>
- Estou realizando o curso Python Impressionado
+ Sou focado e determinado com Programação, atuo como <strong>FullStack</strong>.<br>
+ Estou realizando a faculdade de analise e desenvolvimento de sistemas
 </p>
 
 <p align="left">
-  💼 Linguagens: **JavaScript, Python, Java, SQL  .**
+  💼 Linguagens: **JavaScript, Python,
 </p>
 
 <p align="left">
-  💼 Ferramentas: **React.JS, Tailwind, ReactNative, Django, OpenCV  .**
+  💼 Ferramentas: **React.JS, Tailwind, ReactNative, Django, OpenCV, PyautoGui, Pandas .**
 </p>
 
 <p align="left">
